@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FileProcess/app/src/main/res/layout/activity_handle_pdf.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FileProcess/app/src/main/res/layout/activity_handle_video.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FileProcess/app/src/main/res/layout/activity_image_handle.xml" value="0.32065217391304346" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FileProcess/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FileProcess/app/src/main/res/layout/activity_pdf_asset.xml" value="0.32065217391304346" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FileProcess/app/src/main/res/layout/activity_pdf_internet.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FileProcess/app/src/main/res/layout/activity_pdf_storage.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FileProcess/app/src/main/res/layout/activity_pdf_web_view.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
